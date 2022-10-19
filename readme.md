@@ -12,4 +12,6 @@ Alfred Nougi
    Mathématiques
     -probabilités ET processus Aléatoires
     -Analyses
- 
+ # Attentes envers le cours
+   consolider mes connaissances et réaliser un jeu
+    
