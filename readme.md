@@ -15,3 +15,6 @@ Alfred Nougi
  # Attentes envers le cours
    consolider mes connaissances et réaliser un jeu
     
+# Attentes envers le programme
+   
+   maitriser le developpement d'application
